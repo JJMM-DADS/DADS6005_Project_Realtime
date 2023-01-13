@@ -11,3 +11,4 @@ Using real-time data, we analyzed the two most popular exchanges among Thai trad
 <img src="https://github.com/JJMM-DADS/DADS6005_Project_Realtime/blob/main/presentation/6.png"/><br />
 <img src="https://github.com/JJMM-DADS/DADS6005_Project_Realtime/blob/main/presentation/7.png"/>
 
+This is a part of DADS6005 Data Streaming and Real-Time Analytics 
